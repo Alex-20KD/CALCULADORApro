@@ -1,0 +1,10 @@
+2025-05-25 19:09:39,927 - INFO - Operacion exitosa: 416.0
+2025-05-25 19:09:52,206 - ERROR - Error al evaluar expresion: invalid syntax (<string>, line 1)
+2025-05-25 19:10:09,322 - ERROR - Error al evaluar expresion: division by zero
+2025-05-25 19:12:37,293 - INFO - Ra赤z cuadrada de 8: 2.8284271247461903
+2025-05-25 19:12:45,221 - INFO - Operaci車n exitosa: 64
+2025-05-25 19:12:49,971 - INFO - Operaci車n exitosa: 12.8
+2025-05-25 19:12:59,082 - INFO - Operaci車n exitosa: 6681.6
+2025-05-25 19:13:07,843 - INFO - Operaci車n exitosa: 14699.520000000002
+2025-05-25 19:13:09,813 - INFO - Ra赤z cuadrada de 14699.520000000002: 121.24157702702486
+2025-05-25 19:13:18,088 - INFO - Operaci車n exitosa: 1.2124157702702487e-06
