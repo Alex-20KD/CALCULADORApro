@@ -1,13 +1,14 @@
+import os
 import psycopg2
 from psycopg2 import sql
 
 def get_connection():
     return psycopg2.connect(
-        dbname="Calculadorapro",
-        user="postgres",
-        password="1234",
-        host="localhost",
-        port="5432"
+        dbname=os.environ.get("DB_NAME", "Calculadorapro"),
+        user=os.environ.get("DB_USER", "postgres"),
+        password=os.environ.get("DB_PASSWORD"),
+        host=os.environ.get("DB_HOST", "localhost"),
+        port=os.environ.get("DB_PORT", "5432")
     )
 
 def guardar_operacion_log(operacion, resultado):
