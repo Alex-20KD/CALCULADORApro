@@ -8,3 +8,47 @@
 2025-05-25 19:13:07,843 - INFO - Operaci車n exitosa: 14699.520000000002
 2025-05-25 19:13:09,813 - INFO - Ra赤z cuadrada de 14699.520000000002: 121.24157702702486
 2025-05-25 19:13:18,088 - INFO - Operaci車n exitosa: 1.2124157702702487e-06
+2025-05-27 16:33:21,388 - INFO - 5.0 * 5.0 = 25.0
+2025-05-27 16:33:29,603 - INFO - 5.0 ^ 2.0 = 25.0
+2025-05-27 16:42:49,374 - INFO - 8.0 * 8.0 = 64.0
+2025-05-27 16:46:44,088 - INFO - Evaluaci車n eval(): 8 = 8
+2025-05-27 16:46:52,487 - INFO - 8.0 * 8.0 = 64.0
+2025-05-27 16:47:35,290 - INFO - 5.0 * 10.22 = 51.1
+2025-05-27 16:48:19,181 - INFO - 88.85 * 223.66 = 19872.191
+2025-05-27 16:48:20,919 - INFO - ﹟19872.191 = 140.96875895034333
+2025-05-27 16:48:30,228 - INFO - 140.96875895034333 ^ 6.0 = 7847607220650.893
+2025-05-27 16:48:38,530 - INFO - 7847607220650.893 / 9999.0 = 784839205.9856879
+2025-05-27 16:48:46,979 - INFO - 784839205.9856879 / 999999999.0 = 0.7848392067705271
+2025-05-27 19:01:53,358 - INFO - 8.0 * 9.0 = 72.0
+2025-05-27 19:01:53,358 - ERROR - Error al evaluar: guardar_operacion_log() missing 1 required positional argument: 'resultado'
+2025-05-27 19:02:02,367 - INFO - 8.0 + 2.0 = 10.0
+2025-05-27 19:02:02,367 - ERROR - Error al evaluar: guardar_operacion_log() missing 1 required positional argument: 'resultado'
+2025-05-27 19:13:45,491 - INFO - 8.0 * 8.0 = 64.0
+2025-05-27 19:13:45,491 - ERROR - Error al evaluar: guardar_operacion_log() missing 1 required positional argument: 'resultado'
+2025-05-27 19:14:10,653 - INFO - 1.0 + 1.0 = 2.0
+2025-05-27 19:14:10,653 - ERROR - Error al evaluar: guardar_operacion_log() missing 1 required positional argument: 'resultado'
+2025-05-27 19:14:43,858 - INFO - 10.0 / 2.0 = 5.0
+2025-05-27 19:14:43,858 - ERROR - Error al evaluar: guardar_operacion_log() missing 1 required positional argument: 'resultado'
+2025-05-27 19:20:25,866 - INFO - 8.0 * 8.0 = 64.0
+2025-05-27 19:20:25,866 - ERROR - Error al evaluar: guardar_operacion_log() missing 1 required positional argument: 'resultado'
+2025-05-27 19:21:54,665 - INFO - 10.0 / 2.0 = 5.0
+2025-05-27 19:21:54,666 - ERROR - Error al evaluar: guardar_operacion_log() missing 1 required positional argument: 'resultado'
+2025-05-27 19:23:00,464 - INFO - 8.0 * 8.0 = 64.0
+2025-05-27 19:23:00,465 - ERROR - Error al evaluar: guardar_operacion_log() missing 1 required positional argument: 'resultado'
+2025-05-27 19:28:18,837 - ERROR - Error al evaluar: invalid syntax (<string>, line 1)
+2025-05-27 19:28:26,686 - INFO - 5.0 * 5.0 = 25.0
+2025-05-27 19:28:26,687 - ERROR - Error al evaluar: guardar_operacion_log() missing 1 required positional argument: 'resultado'
+2025-05-27 19:35:27,373 - INFO - 8.0 * 8.0 = 64.0
+2025-05-27 19:49:55,830 - INFO - 555.25 * 2.0 = 1110.5
+2025-05-27 19:49:58,100 - INFO - ﹟1110.5 = 33.324165405903265
+2025-05-27 19:50:08,139 - INFO - 89.0 ^ 5.0 = 5584059449.0
+2025-05-27 19:50:18,043 - INFO - 45.0 ^ 2.0 = 2025.0
+2025-05-27 19:50:19,565 - INFO - ﹟2025.0 = 45.0
+2025-05-27 19:50:31,852 - INFO - 45.0 * 23.15 = 1041.75
+2025-05-27 20:04:17,409 - INFO - 8.0 * 5.0 = 40.0
+2025-05-27 20:04:25,499 - INFO - Evaluaci車n eval(): 40.0 = 40.0
+2025-05-27 20:05:06,653 - INFO - 9.0 * 32.0 = 288.0
+2025-05-28 11:45:57,262 - INFO - 5.0 * 25.0 = 125.0
+2025-05-28 11:46:24,282 - INFO - Evaluaci車n eval(): 3+3+5 = 11
+2025-05-28 12:27:11,300 - INFO - 2.0 * 6.22 = 12.44
+2025-05-28 12:29:07,970 - INFO - 50.0 / 2.0 = 25.0
